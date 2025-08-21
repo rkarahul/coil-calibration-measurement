@@ -1,0 +1,11 @@
+camera0: 25109240
+camera1: 25214843
+frame_width: 2448
+frame_height: 2048
+mono_calibration_frames: 15
+stereo_calibration_frames: 15
+view_resize: 2
+checkerboard_box_size_scale : 2.10
+checkerboard_rows: 11
+checkerboard_columns: 7
+cooldown: 100
